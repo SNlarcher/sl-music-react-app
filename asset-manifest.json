@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sl-music-react-app/static/css/main.dc3a7145.css",
+    "main.js": "/sl-music-react-app/static/js/main.9390413c.js",
+    "static/js/787.d3befce1.chunk.js": "/sl-music-react-app/static/js/787.d3befce1.chunk.js",
+    "index.html": "/sl-music-react-app/index.html",
+    "main.dc3a7145.css.map": "/sl-music-react-app/static/css/main.dc3a7145.css.map",
+    "main.9390413c.js.map": "/sl-music-react-app/static/js/main.9390413c.js.map",
+    "787.d3befce1.chunk.js.map": "/sl-music-react-app/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3a7145.css",
+    "static/js/main.9390413c.js"
+  ]
+}
