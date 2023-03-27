@@ -1,0 +1,38 @@
+#divDetalle {
+  color: #ddd;
+  display: block;
+  background-color: black;
+  padding: 20px;
+}
+
+#divTituloDetalle {
+  margin-bottom: 50px;
+  width: 100%;
+  display: block;
+}
+
+#divImgGrande {
+  max-width: 50%;
+  height: auto;
+  display: inline-block;
+  background-color: #111;
+  border: #fcb722 solid 10px;
+  object-fit: contain;
+}
+
+#imgGrande {
+  width: 100%;
+  object-fit: contain;
+}
+
+#divInfoCompra {
+  display: inline-block;
+}
+
+p {
+  margin: 5vh;
+}
+
+#pPrecio {
+  font-size: 4vh;
+}

@@ -1,0 +1,26 @@
+#darkCard {
+  width: 18rem;
+  margin: 5px;
+  width: 300px;
+  height: 480px;
+}
+
+#darkCard:hover {
+  box-shadow: 0px 0px 20px rgb(221, 160, 27);
+  border-color: rgb(221, 160, 27);
+}
+
+#cardText {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#cardImg {
+  height: 300px;
+  object-fit: contain;
+  padding: 15px;
+  border: 2px solid black;
+}
