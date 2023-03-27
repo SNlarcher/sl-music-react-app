@@ -12,7 +12,7 @@ function App() {
       className="App"
       style={{ backgroundColor: "#111", height: "fit-content" }}
     >
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <LoginProvider>
           <ProductProvider>
             <Container style={{ height: "100vh" }}>
